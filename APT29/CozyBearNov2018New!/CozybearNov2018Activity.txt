@@ -1,0 +1,7 @@
+AudoSes.dll   - .DLL
+
+ds7001.zip    - Contains Dropped PDF
+
+ds7002.bin    - .lnk file drops powershell script
+
+ds7002.zip    - Contains Dropped PDF
