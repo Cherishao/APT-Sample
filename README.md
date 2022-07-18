@@ -7,4 +7,7 @@
 - 在虚拟机中运行
 - 每个组的详细信息，请使用 [Virustotal](https://www.virustotal.com/) 、[Hybrid Analysis](https://habo.qq.com/)
 
+## malware-traffic
 
+- 含有多种 malware sample 的 pcap 及 IOC
+https://malware-traffic-analysis.net/2022/06/27/index.html
