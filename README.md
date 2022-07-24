@@ -1,6 +1,6 @@
 ### About
 
-这里发布了一些 APT 组（APT28、APT29、APT32、Emotet...）所使用的恶意软件样本，供其他安全研究人员/恶意软件分析师分析和使用 **:smile:** From the [0xffff0800](https://twitter.com/0xffff0800) for sharing
+这里发布了一些 APT 组（APT28、APT29、APT32、Emotet...）所使用的恶意软件样本，供其他安全研究人员/恶意软件分析师分析和使用 **:smile:** 
 
 ### Tips
 
@@ -21,3 +21,7 @@
 - [any](https://any.run/)
 - [joe](https://www.joesandbox.com/#windows)
 - [微步](https://x.threatbook.com/)
+
+## Tools
+- [Wireshark](https://www.wireshark.org/download.html)
+- [火绒剑](https://www.52pojie.cn/thread-1358235-1-1.html)
