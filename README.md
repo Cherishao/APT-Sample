@@ -4,7 +4,7 @@ Malware samples used by some APT groups (Lazarus, APT28, APT29, APT32, Emotet...
 
 ## malware-traffic
 
-- The [malware-traffic-analysis](https://malware-traffic-analysis.net/2022/06/27/index.html) site contains PCAPs and IOCs of various Malware Samples
+The [malware-traffic-analysis](https://malware-traffic-analysis.net/2022/06/27/index.html) site contains PCAPs and IOCs of various Malware Samples
 
 ## Report
 
@@ -23,4 +23,4 @@ Malware samples used by some APT groups (Lazarus, APT28, APT29, APT32, Emotet...
 
 ### Tips
 
-- Download and run in a virtual machine or sandbox
+Download and run in a virtual machine or sandbox
