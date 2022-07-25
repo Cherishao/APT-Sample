@@ -4,7 +4,7 @@ Malware samples used by some APT groups (APT28, APT29, APT32, Emotet...) are pub
 
 ## malware-traffic
 
-- [malware-traffic-analysis](https://malware-traffic-analysis.net/2022/06/27/index.html) 含有多种 Malware Sample 的 PCAP 及 IOC
+- The [malware-traffic-analysis](https://malware-traffic-analysis.net/2022/06/27/index.html) site contains PCAPs and IOCs of various Malware Samples
 
 ## Report
 
