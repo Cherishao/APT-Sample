@@ -1,11 +1,6 @@
 ### About
 
-这里发布了一些 APT 组（APT28、APT29、APT32、Emotet...）所使用的恶意软件样本，供其他安全研究人员/恶意软件分析师分析和使用 **:smile:** 
-
-### Tips
-
-- 在虚拟机中运行
-- 每个组的详细信息，请使用 [Virustotal](https://www.virustotal.com/) 、[Hybrid Analysis](https://habo.qq.com/)
+Malware samples used by some APT groups (APT28, APT29, APT32, Emotet...) are published here for analysis and use by other security researchers/malware analysts **:smile:** 
 
 ## malware-traffic
 
@@ -20,8 +15,12 @@
 - [VT](https://www.virustotal.com/)
 - [any](https://any.run/)
 - [joe](https://www.joesandbox.com/#windows)
-- [微步](https://x.threatbook.com/)
+- [threatbook](https://x.threatbook.com/)
 
 ## Tools
 - [Wireshark](https://www.wireshark.org/download.html)
-- [火绒剑](https://www.52pojie.cn/thread-1358235-1-1.html)
+- [Hsword](https://www.52pojie.cn/thread-1358235-1-1.html)
+
+### Tips
+
+- Download and run in a virtual machine or sandbox
