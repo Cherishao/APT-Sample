@@ -1,6 +1,6 @@
 ### About
 
-Malware samples used by some APT groups (APT28, APT29, APT32, Emotet...) are published here for analysis and use by other security researchers/malware analysts **:smile:** 
+Malware samples used by some APT groups (Lazarus, APT28, APT29, APT32, Emotet...) are published here for analysis and use by other security researchers/malware analysts **:smile:** 
 
 ## malware-traffic
 
